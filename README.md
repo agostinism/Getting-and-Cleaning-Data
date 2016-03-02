@@ -17,7 +17,7 @@ run_analysis.R:	Current R script that generates the analysis.
 The run_analysis.R script when run, goes through all the process to create the tidi_data.txt and provides answers to the following inquiries,
 
 - Merges the training and the test sets to create one data set:<br>
-  in the program <b>run_analysis.R</b> the data frame <i>statistics</i> contains both the test and train data.
+  The program <b>run_analysis.R</b> the data frame <i>statistics</i> contains both the test and train data.
 - Extracts only the measurements on the mean and standard deviation for each measurement:<br>
   The variable <i>mean_variable</i> obtains the mean and <i>std_variable</i> obtains the standard deviation from the statistics
   dataset.
